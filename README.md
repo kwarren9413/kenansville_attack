@@ -2,7 +2,7 @@
 
 ## Install Dependencies
 
-`pip install numpy scipy scikit-learn ipython sympy nose librosa Pillow SpeechRecognition`
+`pip install numpy scipy scikit-learn ipython sympy nose Pillow SpeechRecognition`
 
 ## Execute python script
 
